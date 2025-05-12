@@ -18,18 +18,18 @@ It provides secure and structured endpoints to manage:
  3. PostgreSQL
 
  ### Frontend Repository
-https://git.generalassemb.ly/aseelma12/frontend
+https://github.com/AseelAlanazi/Go-WalkFrontend
 
 ## Installation Instructions
 
 To run the project, you need to clone both the backend and frontend repositories. Below are the steps for setting up the backend:
 
 1. Clone the repo:
--  `git clone https://git.generalassemb.ly/aseelma12/backend.git`
+-  `git clone https://github.com/AseelAlanazi/Go-WalkBackend.git`
 
 
 2.  To the project directory
-- `cd backend`
+- `cd Go-WalkBackend`
 
 3. Install dependencies
 - `pipenv install django`
